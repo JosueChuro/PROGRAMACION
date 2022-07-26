@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 15 19:30:26 2022
 
-@author: jeanp
+@author: josue
 """
 
 filas=columnas=0	#inicializo las variables '''
